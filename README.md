@@ -1,28 +1,55 @@
-<h1 align="center">Hi 👋, I'm phucho0237</h1>
-<h3 align="center">A freelance developer from Vietnam</h3>
+<h1 align="center">
+  <b>phucho0237</b>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phucho0237&label=Profile%20views&color=0e75b6&style=flat" alt="phucho0237" /> </p>
+Heya! I'm phucho0237, a student currently living in Vung Tau, Vietnam.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phucho0237" alt="phucho0237" /></a> </p>
+<br>
 
-- 📫 How to reach me **phucho0237@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/phucho0237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/phucho0237" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nhu.phuc.946179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nhu.phuc.946179/" height="30" width="40" /></a>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Nhu Phuc";
+    self.username = "phucho0237";
+    self.location = "Vung Tau, Vietnam";
+  
+  def __str__(self):
+    return self.name
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/phucho0237"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="phucho0237" /></a></p><br><br>
+if __name__ == '__main__':
+    me = Nhu Phuc()
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phucho0237&show_icons=true&locale=en&layout=compact" alt="phucho0237" /></p>
+<div align="center">
+  <a href="https://open.spotify.com/user/phucho0237">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phucho0237&show_icons=true&locale=en" alt="phucho0237" /></p>
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/phucho0237">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phucho0237&" alt="phucho0237" /></p>
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
