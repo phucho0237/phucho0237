@@ -15,7 +15,7 @@ Heya! I'm phucho0237, a student currently living in Vung Tau, Vietnam.
 </p>
 
 ```python
-class AbhigyanTrips():
+class lucas():
     
   def __init__(self):
     self.name = "Nhu Phuc";
@@ -26,7 +26,7 @@ class AbhigyanTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = Nhu Phuc()
+    me = lucas()
 ```
 
 <div align="center">
