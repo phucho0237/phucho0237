@@ -11,8 +11,6 @@ Hello, I am a freelance developer from Vietnam
 -------------------
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=phucho0237&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucho0237&layout=compact&theme=algolia&show_icons=true)](https://github.com/phucho0237/phucho0237)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=phucho0237&theme=radical&include_all_commits=true&count_private=true)
 
