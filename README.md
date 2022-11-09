@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 🧑‍🎓 Young Student
+- 🧑‍🎓 Young student
 - 📖 Self learning about everything
 - 🎮 Love gaming
 - 🧑‍💻 Love coding (of course)
