@@ -1,4 +1,7 @@
 
+# 💫 About Me:
+🧑‍🎓 Young Student<br>📖 Self learning about everything<br>🎮 Love gaming<br>📷 Love taking photos
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phucho0237) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/phucho0237) 
 
@@ -17,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phucho0237&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
