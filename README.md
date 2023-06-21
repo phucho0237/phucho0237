@@ -54,6 +54,6 @@
 
 ###
 
-![phucho0237's GitHub stats](https://github-readme-stats-rose-phi-63.vercel.app/api?username=phucho0237)
+![phucho0237's GitHub stats](https://github-readme-stats-rose-phi-63.vercel.app/api?username=phucho0237&show_icons=true&theme=dracula)
 
 ###
