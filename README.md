@@ -55,6 +55,6 @@
 ###
 
 ![phucho0237's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucho0237&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucho0237&layout=compact&show_icon=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucho0237&layout=compact&theme=dracula)
 
 ###
