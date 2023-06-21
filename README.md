@@ -53,9 +53,12 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![phucho0237's GitHub stats](https://github-readme-stats-rose-phi-63.vercel.app/api? 
-username=phucho0237&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-rose-phi-63.vercel.app/api/top-langs/? 
-username=phucho0237&show_icon=true&layout=compact&theme=transparent)
+
+<div align="left">
+  [![phucho0237's GitHub stats](https://github-readme-stats-rose-phi-63.vercel.app/api? 
+username=phucho0237&show_icons=true&theme=transparent)]
+  [![Top Langs](https://github-readme-stats-rose-phi-63.vercel.app/api/top-langs/? 
+username=phucho0237&show_icon=true&layout=compact&theme=transparent)]
+</div>
 
 ###
