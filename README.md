@@ -54,8 +54,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=phucho0237&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![phucho0237's GitHub stats](https://github-readme-stats-rose-phi-63.vercel.app/api?username=phucho0237)
 
 ###
