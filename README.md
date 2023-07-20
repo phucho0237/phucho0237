@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 Working as Freelance Developer<br>- 📚 Currently learning C# and C++<br>- 🎮 Love playing games</p>
+<p align="left">📚 Student who love coding<br>📚 Currently learning C# and C++<br>🎮 Love playing games</p>
 
 ###
 
