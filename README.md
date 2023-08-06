@@ -5,20 +5,6 @@
 ###
 
 <div align="center">
-  <a href="mailto:phucho0237@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://facebook.com/phucho0237.developer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/17576628/nhu-phuc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phucho0237.phucho0237&left_text=Visitors"  />
 </div>
 
@@ -32,7 +18,7 @@
 
 ###
 
-<p align="left">📚 Student who love coding<br>📚 Currently learning C# and C++<br>🎮 Love playing games</p>
+<p align="left">📚 High School Student who love coding<br>🎮 Love playing games</p>
 
 ###
 
