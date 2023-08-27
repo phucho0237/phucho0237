@@ -10,5 +10,5 @@
 
 ###
 
-![phucho0237's GitHub stats](https://github-readme-stats-sigma-three-43.vercel.app/api?username=phucho0237&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-sigma-three-43.vercel.app/api/top-langs/?username=phucho0237&layout=compact&theme=dracula)
+![phucho0237's GitHub stats](https://github-readme-stats-three-omega-71.vercel.app/api?username=phucho0237&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-three-omega-71.vercel.app/api/top-langs/?username=phucho0237&layout=compact&theme=dracula)
