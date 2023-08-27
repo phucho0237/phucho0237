@@ -1,7 +1,7 @@
 ###
 
 <div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=phucho0237.phucho0237&left_text=Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=phucho0237.phucho0237&format=true"  />
 </div>
 
 ###
